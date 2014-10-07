@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"G",
+				"greeter"
+			],
+			[
+				"gr",
+				"greeter"
+			],
+			[
+				"g",
+				"greeting"
+			],
+			[
+				"text",
+				"text_field"
+			],
+			[
+				"select",
+				"select_value"
+			],
+			[
+				"te",
+				"text_field"
+			],
+			[
+				"table",
+				"table-condensed"
+			],
+			[
+				"tee",
+				"text_field"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"option",
+				"option_field"
+			],
+			[
+				"driver",
+				"driver"
+			],
+			[
+				"year",
+				"year"
+			],
+			[
+				"x",
+				"xpath"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"Se",
+				"select"
+			],
+			[
+				"fin",
+				"find_element"
+			],
+			[
+				"po",
+				"postgresql"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ruslan/Projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/Ruslan/Projects/Codebreaker/features/codebreaker_submit_guess.feature",
+		"/Users/Ruslan/Projects/Codebreaker/features/support/env.rb",
+		"/Users/Ruslan/Downloads/rees last2/js/diagrams.js",
+		"/Users/Ruslan/Projects/hackday/config/locales/devise.ru.yml",
+		"/Users/Ruslan/Downloads/rees last5/js/diagrams.js",
+		"/Users/Ruslan/Projects/Codebreaker/features/codebreaker_starts_game.feature",
+		"/Users/Ruslan/Projects/Codebreaker/Gemfile",
+		"/Users/Ruslan/Projects/rees46-rails/Gemfile",
+		"/Users/Ruslan/Projects/Codebreaker/features/step_definitions/codebreaker_steps.rb",
+		"/Users/Ruslan/Projects/Codebreaker/features/lib/codebreaker/game.rb",
+		"/Users/Ruslan/Projects/Codebreaker/features/lib/codebreaker.rb",
+		"/Users/Ruslan/Projects/hello/spec/greeter_spec.rb",
+		"/Users/Ruslan/Projects/hello/features/step_definitions/greeter_steps.rb",
+		"/Users/Ruslan/Projects/hello/features/greeter_says_hello.feature",
+		"/Users/Ruslan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Ruslan/Projects/Polis/HD-Landing.rb",
+		"/Users/Ruslan/Projects/Polis/untitled_watir.rb",
+		"/Users/Ruslan/Projects/Polis/Untitled.rb",
+		"/Users/Ruslan/Projects/Polis/MainMenuElements.rb",
+		"/Users/Ruslan/Projects/Polis/LandingElements.html",
+		"/Users/Ruslan/Projects/Polis/FooterElements.rb",
+		"/Users/Ruslan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Ruslan/Projects/Polis/untitled_selenium.rb",
+		"/Users/Ruslan/Projects/Polis/FooterElements.html",
+		"/Users/Ruslan/Projects/Polis/MainMenuElements.html",
+		"/Users/Ruslan/Projects/Polis/test1.rb",
+		"/Users/Ruslan/Projects/Polis/test.rb",
+		"/Users/Ruslan/Projects/Polis/Main_menu_elements.rb",
+		"/Users/Ruslan/Projects/Polis/Untitled.html",
+		"/Users/Ruslan/Projects/Polis/test2.rb",
+		"/Users/Ruslan/Yandex.Disk.localized/Документы/MK/Projects/Hackday/HD-263 Приглашение в команду",
+		"/Users/Ruslan/Yandex.Disk.localized/Документы/MK/Projects/Hackday/HD-4 Ранжирование партнеров в каждой категории по значимости",
+		"/Users/Ruslan/Yandex.Disk.localized/Документы/MK/Projects/Hackday/HD-5 Курсы",
+		"/Users/Ruslan/Downloads/pus.json",
+		"/Users/Ruslan/Desktop/view-source test.grocerymarket.ca products gala-apples-each-slash-appox-250g.html",
+		"/Users/Ruslan/Hackday/features/support/env.rb",
+		"/Users/Ruslan/Hackday/config/cucumber.yml",
+		"/Users/Ruslan/Hackday/config/database.yml",
+		"/Users/Ruslan/Hackday/Gemfile.lock",
+		"/Users/Ruslan/Hackday/test/functional/registration_mailer_test.rb",
+		"/System/Library/CoreServices/Finder.app/Contents/Resources/ru.lproj/InfoPlist.strings",
+		"/Users/Ruslan/Downloads/solarized/README.md",
+		"/Users/Ruslan/Downloads/solarized/textmate-colors-solarized/Solarized (dark).tmTheme"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/Ruslan/Hackday"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"июль",
+			"${receiver}",
+			"id",
+			"${receiver}",
+			"новостт",
+			"НОВ",
+			"новости",
+			"${receiver}",
+			"verify",
+			"${receiver}",
+			"verify",
+			"${receiver}",
+			"verify",
+			"Не",
+			"Да",
+			"Нет",
+			"${receiver}",
+			"verify",
+			"${receiver}",
+			"verify",
+			"${receiver}",
+			"verify",
+			"${receiver}",
+			"verify",
+			"${receiver}",
+			"verify",
+			"tear",
+			"${receiver}",
+			"verify",
+			"utf",
+			"cucu",
+			"database",
+			"capy",
+			"vkon",
+			"capybara",
+			"instal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@driver",
+			"assert",
+			"@driver",
+			"assert",
+			"@driver",
+			"assert",
+			"@driver",
+			"assert",
+			"@driver",
+			"assert",
+			"@driver",
+			"assert",
+			"@driver",
+			"assert",
+			"@driver",
+			"assert",
+			"@driver",
+			"assert"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "spec_helper.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
